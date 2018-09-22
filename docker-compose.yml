@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+    umbriel:
+        build: .
+        command: app.py
+        ports:
+          - "7081:7081"
+        networks:
+          - local
+
+networks:
+    local:
