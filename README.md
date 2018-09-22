@@ -1,6 +1,6 @@
-# umbriel microservice
+# Umbriel microservice
 
-umbriel is a microservice made :hammer: with Flask, Python 3.X, Docker and Docker Compose!
+Umbriel is a microservice made :hammer: with Flask, Python 3.X, Docker and Docker Compose!
 
 ## Install instructions
 
